@@ -78,7 +78,8 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 - BackEnd Using Flask 
 - SQL DataBases
 - Data Vistulization
--
+
+  
 <!--
 # 📫 How to Reach Me
 - [Email](mailto:your-gskadam3b@gmail.com)
@@ -117,6 +118,7 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 <!--START_SECTION:activity-->
 - Created a Machine Learning/Deep Learning Model To Classification Of Tumor of the MRI Scan in 24hr Non-Stop Hackathon at S.K.N. Sinhgad Collage of Engineering Korti, Pandharpur
 - Created a Personal Posrtfolio
+- 
 <!--END_SECTION:activity-->
 
 <!--
