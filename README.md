@@ -3,12 +3,12 @@
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 400 />
 
 Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing Softwares,FrontEnd,BackEnd , Machine Learning & Deep Learning. Here, you'll find a collection of my projects, contributions, and more.
-
+<!--
 ## 🔭 Current Projects
 - [Project 1](https://github.com/your-username/project1): Brief description of Project 1.
 - [Project 2](https://github.com/your-username/project2): Brief description of Project 2.
 
-
+-->
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <table>
