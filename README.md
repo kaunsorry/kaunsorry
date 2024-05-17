@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 
 <!-- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=iamsorry0310.iamsorry0310)
 -->
-<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <!-- For YouTube Videos -->
 <!-- 
@@ -81,5 +81,5 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 <a href="https://github.com/Neel2904">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsorry0310&theme=radical&hide=glsl,python" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsorry0310&theme=radical&hide=glsl,python" />
 </a>
