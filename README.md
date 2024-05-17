@@ -2,7 +2,7 @@
 
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 400 />
 
-Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing Softwares,FrontEnd And BackEnd and Machine Learning & Deep Learning. Here, you'll find a collection of my projects, contributions, and more.
+Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing Softwares,FrontEnd,BackEnd , Machine Learning & Deep Learning. Here, you'll find a collection of my projects, contributions, and more.
 
 ## 🔭 Current Projects
 - [Project 1](https://github.com/your-username/project1): Brief description of Project 1.
