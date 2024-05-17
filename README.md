@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Gaurav Kadam!
+# Hi there 👋, I'm Gaurav Kadam!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 
 Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing Softwares,FrontEnd And BackEnd and Machine Learning & Deep Learning. Here, you'll find a collection of my projects, contributions, and more.
 
