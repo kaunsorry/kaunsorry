@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
       <td width="25%" align="center">
         <span><strong>React</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/flask.png">
       </td>
     </tr>
     <tr valign="top">
