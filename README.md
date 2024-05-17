@@ -48,7 +48,9 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 
 ---
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=iamsorry0310.iamsorry0310)
+<!-- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=iamsorry0310.iamsorry0310)
+-->
+<img align="left" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <!-- For YouTube Videos -->
 <!-- 
