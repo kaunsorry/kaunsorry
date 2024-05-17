@@ -117,6 +117,7 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 ## 📅 Recent Activity
 - Created a Machine Learning/Deep Learning Model To Classification Of Tumor of the MRI Scan in 24hr Non-Stop Hackathon at S.K.N. Sinhgad Collage of Engineering Korti, Pandharpur
 - Created a Personal Posrtfolio
+
 <!--
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -125,7 +126,7 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/gaurav-kadam-093b75242/)
 [![Twitter](https://img.shields.io/badge/Twitter-@yourusername-blue)](https://twitter.com/GauravK0310)
-[![Website](https://img.shields.io/badge/Website-yourwebsite.com-blue)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/Website-yourwebsite.com-blue)](https://iamsorry0310.github.io/home/)
 
 
 <!-- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=iamsorry0310.iamsorry0310)
