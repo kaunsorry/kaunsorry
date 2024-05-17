@@ -115,12 +115,8 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsorry0310&layout=compact&theme=radical)
 
 ## 📅 Recent Activity
-<!--START_SECTION:activity-->
 - Created a Machine Learning/Deep Learning Model To Classification Of Tumor of the MRI Scan in 24hr Non-Stop Hackathon at S.K.N. Sinhgad Collage of Engineering Korti, Pandharpur
 - Created a Personal Posrtfolio
-- 
-<!--END_SECTION:activity-->
-
 <!--
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
