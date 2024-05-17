@@ -75,6 +75,5 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
   <img width='30%' src='https://img.youtube.com/vi/DfA_SV7w0jA/mqdefault.jpg' alt='Flutter Peru, 2do meetup online!' />
 </a>
 </div>
-
-
 -->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
