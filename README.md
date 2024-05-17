@@ -131,7 +131,6 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 [![Twitter](https://img.shields.io/badge/Twitter-@yourusername-blue)](https://twitter.com/GauravK0310)
 [![Website](https://img.shields.io/badge/Website-yourwebsite.com-blue)](https://yourwebsite.com)
 
----
 
 <!-- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=iamsorry0310.iamsorry0310)
 -->
