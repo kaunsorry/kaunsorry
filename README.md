@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 - HTML
 - CSS
 - JavaScript
-- > Python
+- Python
   > Pandas | NumPy | Matplotlib | Flask | Django | Tkinter 
 - FlutterFlow
 - SQL / MySQL / PostgressSQL
