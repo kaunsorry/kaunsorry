@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
       </td>
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
       </td>
       <td width="25%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
