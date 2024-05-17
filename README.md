@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>React</strong>
+        <span><strong>Flask</strong>
         </span><br><br><br>
         <img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
       </td>
@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
+        <span><strong>C++</strong>
         </span><br><br><br>
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="64px">
       </td>
