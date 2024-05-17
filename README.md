@@ -12,9 +12,10 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 - CSS
 - JavaScript
 - > Python
-  >> Pandas | NumPy | Matplotlib | Flask | Django | Tkinter 
+  > Pandas | NumPy | Matplotlib | Flask | Django | Tkinter 
 - FlutterFlow
 - SQL / MySQL / PostgressSQL
+- 
 ## 💬 Ask Me About
 - BackEnd Using Flask 
 - SQL DataBases
