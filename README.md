@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Gaurav Kadam!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Hi there 👋, I'm Gaurav Kadam!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
 
 Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing Softwares,FrontEnd And BackEnd and Machine Learning & Deep Learning. Here, you'll find a collection of my projects, contributions, and more.
