@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 - [Project 1](https://github.com/your-username/project1): Brief description of Project 1.
 - [Project 2](https://github.com/your-username/project2): Brief description of Project 2.
 
-## 🌱 Learning
+## 🌱 Learning <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - C/C++
 - HTML
 - CSS
