@@ -2,13 +2,13 @@
 
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 400 />
 
-Welcome to my GitHub profile! I'm a Web Dev. and passionate about Developing Softwares, FrontEnd, BackEnd, Machine Learning & Deep Learning. Here, you'll find a collection of my projects, contributions, and more.
-
+Welcome to my GitHub profile! I'm a Self Learner.
+<!--
 ## 💬 Ask Me About  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 - BackEnd Using Flask 
 - SQL DataBases
 - Data Vistulization
-
+-->
 <br/>
 <a href="https://twitter.com/GauravK0310">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
