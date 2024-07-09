@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 - [Project 2](https://github.com/your-username/project2): Brief description of Project 2.
 
 -->
+<!--
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <table>
@@ -73,7 +74,7 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
   </tbody>
 </table>
 <hr>
-
+-->
 ## 💬 Ask Me About  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 - BackEnd Using Flask 
 - SQL DataBases
