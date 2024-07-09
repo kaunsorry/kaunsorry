@@ -10,18 +10,22 @@ Welcome to my GitHub profile! I'm a Self Learner.
 - Data Vistulization
 -->
 <br/>
+<!--
 <a href="https://twitter.com/GauravK0310">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/gaurav-kadam-093b75242/">
+-->
+<a href="https://www.linkedin.com/in/gaurav-kadam-b2440b318/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/iamsorry0310?igsh=bm02MnpqbGtvczlj">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<!--
 <a href="https://leetcode.com/gskadam3b/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
 
@@ -36,9 +40,7 @@ Welcome to my GitHub profile! I'm a Self Learner.
 - Created a Personal Portfolio
 
 ## 🤝 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/gaurav-kadam-093b75242/)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourusername-blue)](https://twitter.com/GauravK0310)
-[![Website](https://img.shields.io/badge/Website-yourwebsite.com-blue)](https://iamsorry0310.github.io/home/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/gaurav-kadam-b2440b318/)
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
