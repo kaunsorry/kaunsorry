@@ -162,7 +162,7 @@ Welcome to my GitHub profile! I'm a  Web Dev. and passionate about Developing So
 
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 <a href="https://github.com/Neel2904">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsorry0310&theme=radical&hide=glsl,python" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaunsorry&theme=radical&hide=glsl,python" />
 </a>
 
 
