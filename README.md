@@ -34,11 +34,11 @@ Welcome to my GitHub profile! I'm a Self Learner.
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaunsorry&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaunsorry&layout=compact&theme=radical)
-
+<!--
 ## 📅 Recent Activity
 - Created a Machine Learning/Deep Learning Model To Classification Of Tumor of the MRI Scan in 24hr Non-Stop Hackathon at S.K.N. Sinhgad Collage of Engineering Korti, Pandharpur
 - Created a Personal Portfolio
-
+-->
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/gaurav-kadam-b2440b318/)
 
